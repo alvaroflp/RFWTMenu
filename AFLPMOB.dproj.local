@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/09 13:10:11.000.401,=C:\Users\Álvaro Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/24 15:42:34.000.148,=C:\Users\Álvaro Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/24 15:43:58.000.050,C:\Users\Álvaro Felipe\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\frmMenu.pas</Transaction>
+    <Transaction>2021/09/24 15:43:58.000.050,C:\Users\Álvaro Felipe\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\frmMenu.dfm</Transaction>
+    <Transaction>2021/09/24 15:44:05.000.528,C:\Users\Álvaro Felipe\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\AFLPMOB.dproj</Transaction>
+    <Transaction>2021/09/24 16:04:56.000.559,=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.pas</Transaction>
+    <Transaction>2021/09/24 16:09:51.000.126,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.pas=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\frmArvoreRotinas.pas</Transaction>
+    <Transaction>2021/09/24 16:09:51.000.126,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.dfm=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\frmArvoreRotinas.dfm</Transaction>
+    <Transaction>2021/09/24 16:35:37.000.589,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\frmMenu.dfm=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\ULogin.dfm</Transaction>
+    <Transaction>2021/09/24 16:35:37.000.589,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\frmMenu.pas=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\ULogin.pas</Transaction>
+    <Transaction>2021/09/24 16:35:48.000.911,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\frmArvoreRotinas.pas=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UMenu.pas</Transaction>
+    <Transaction>2021/09/24 16:35:48.000.911,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\frmArvoreRotinas.dfm=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UMenu.dfm</Transaction>
+    <Transaction>2021/09/30 16:24:59.000.930,=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.pas</Transaction>
+    <Transaction>2021/09/30 16:29:33.000.228,=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit2.pas</Transaction>
+    <Transaction>2021/09/30 16:30:13.000.760,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.pas=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UContagem.pas</Transaction>
+    <Transaction>2021/09/30 16:30:13.000.760,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.dfm=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UContagem.dfm</Transaction>
+    <Transaction>2021/09/30 16:30:21.000.221,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit2.dfm=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UDM.dfm</Transaction>
+    <Transaction>2021/09/30 16:30:21.000.221,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit2.pas=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UDM.pas</Transaction>
+    <Transaction>2021/09/30 17:56:25.000.671,=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.pas</Transaction>
+    <Transaction>2021/09/30 17:58:33.000.291,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.pas=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UContaOS.pas</Transaction>
+    <Transaction>2021/09/30 17:58:33.000.291,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.dfm=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UContaOS.dfm</Transaction>
+    <Transaction>2021/09/30 19:11:29.000.186,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UContaOS.dfm=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UValidaEndereco.dfm</Transaction>
+    <Transaction>2021/09/30 19:11:29.000.186,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UContaOS.pas=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UValidaEndereco.pas</Transaction>
+    <Transaction>2021/09/30 19:19:33.000.106,=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.pas</Transaction>
+    <Transaction>2021/09/30 19:23:07.000.681,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.pas=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UContaOS.pas</Transaction>
+    <Transaction>2021/09/30 19:23:07.000.681,C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\Unit1.dfm=C:\Users\Álvaro Felipe\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UContaOS.dfm</Transaction>
+    <Transaction>2022/10/08 23:34:00.000.926,C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\ULogin.dfm=C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\View\View.Menu.dfm</Transaction>
+    <Transaction>2022/10/08 23:34:00.000.926,C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\ULogin.pas=C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\View\View.Menu.pas</Transaction>
+    <Transaction>2022/10/08 23:39:17.000.329,C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\View\View.Menu.dfm=C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\View\View.Login.dfm</Transaction>
+    <Transaction>2022/10/08 23:39:17.000.329,C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\View\View.Menu.pas=C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\View\View.Login.pas</Transaction>
+    <Transaction>2022/10/08 23:43:30.361,C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\View\View.Menu.dfm=C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UMenu.dfm</Transaction>
+    <Transaction>2022/10/08 23:43:30.361,C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\View\View.Menu.pas=C:\Users\aflp\Documents\Álvaro Rotinas Delphi\Dunorte (PA)\AFLPMOB000\UMenu.pas</Transaction>
+  </Transactions>
+</BorlandProject>
